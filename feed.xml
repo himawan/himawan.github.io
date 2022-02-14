@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Himawan</title>
+    <link href="https://himawan.github.io/feed.xml" rel="self" />
+    <link href="https://himawan.github.io" />
+    <updated>2021-01-28T22:23:48+07:00</updated>
+    <author>
+        <name>Himawan Susanto</name>
+    </author>
+    <id>https://himawan.github.io</id>
+
+    <entry>
+        <title>_ </title>
+        <author>
+            <name>Himawan Susanto</name>
+        </author>
+        <link href="https://himawan.github.io/portfolio/"/>
+        <id>https://himawan.github.io/portfolio/</id>
+
+        <updated>2021-01-28T22:23:48+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Designer, Front-end Developer &amp; Mentor I design and code beautifully simple things, and I love what I do. About Me Hi. I’m Josue, nice to meet you. Please take a look around! I am passionate about building excellent software that improves the lives of those&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile">Designer, Front-end Developer &amp; Mentor</h1>
+<h2 class="subtitle is-size-4-desktop">I design and code beautifully simple things, and I love what I do.</h2>
+<h2 id="about">About Me</h2>
+<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-1-percent instance-4" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h3>Hi. I’m Josue, nice to meet you. Please take a look around!</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding instance-5" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p>I am passionate about building excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations. What would you do if you had a software expert available at your fingertips?</p>
+<h2>PORTFOLIO</h2>
+<p>Below you can see some projects I've been working on lately. I divide each project into four follow-up areas: comprehensive research, wireframing, design &amp; development. This process allows me to create great product with client goals in mind.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://himawan.github.io/media/posts/5/gallery/install-grafana-pada-debian.png" data-size="1200x630"><img loading="lazy" src="https://himawan.github.io/media/posts/5/gallery/install-grafana-pada-debian-thumbnail.png" alt="" width="720" height="378"></a></figure>
+<figure class="gallery__item"><a href="https://himawan.github.io/media/posts/5/gallery/install-monitorix-pada-debian.png" data-size="1200x630"><img loading="lazy" src="https://himawan.github.io/media/posts/5/gallery/install-monitorix-pada-debian-thumbnail.png" alt="" width="720" height="378"></a></figure>
+<figure class="gallery__item"><a href="https://himawan.github.io/media/posts/5/gallery/install-mosquitto-pada-debian.png" data-size="1200x630"><img loading="lazy" src="https://himawan.github.io/media/posts/5/gallery/install-mosquitto-pada-debian-thumbnail.png" alt="" width="720" height="378"></a></figure>
+<figure class="gallery__item"><a href="https://himawan.github.io/media/posts/5/gallery/install-postgresql-pada-debian.png" data-size="1200x630"><img loading="lazy" src="https://himawan.github.io/media/posts/5/gallery/install-postgresql-pada-debian-thumbnail.png" alt="" width="720" height="378"></a></figure>
+<figure class="gallery__item"><a href="https://himawan.github.io/media/posts/5/gallery/install-webmin-pada-debian.png" data-size="1200x630"><img loading="lazy" src="https://himawan.github.io/media/posts/5/gallery/install-webmin-pada-debian-thumbnail.png" alt="" width="720" height="378"></a></figure>
+</div></div>
+<h2>OK, LET’S CREATE<br>SOMETHING GREAT</h2>
+<p>If you like my work and have some cool project to work on, just send me direct message or contact me through social sites listed below.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>

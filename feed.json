@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Himawan",
+    "title": "Transformasi Digital",
     "description": "",
     "home_page_url": "https://himawan.github.io",
     "feed_url": "https://himawan.github.io/feed.json",
@@ -10,18 +10,49 @@
     },
     "items": [
         {
-            "id": "https://himawan.github.io/portfolio/",
-            "url": "https://himawan.github.io/portfolio/",
-            "title": "_ ",
-            "summary": "Designer, Front-end Developer &amp; Mentor I design and code beautifully simple things, and I love what I do. About Me Hi. I’m Josue, nice to meet you. Please take a look around! I am passionate about building excellent software that improves the lives of those&hellip;",
-            "content_html": "<h1 class=\"title is-spaced is-size-1-desktop is-size-2-tablet is-size-3-mobile\">Designer, Front-end Developer &amp; Mentor</h1>\n<h2 class=\"subtitle is-size-4-desktop\">I design and code beautifully simple things, and I love what I do.</h2>\n<h2 id=\"about\">About Me</h2>\n<div class=\"vc_col-sm-6 wpb_column column_container vc_column_container col padding-1-percent instance-4\" data-shadow=\"none\" data-border-animation=\"\" data-border-animation-delay=\"\" data-border-width=\"none\" data-border-style=\"\" data-border-color=\"\" data-bg-cover=\"\" data-padding-pos=\"left-right\" data-has-bg-color=\"false\" data-bg-color=\"\" data-bg-opacity=\"1\" data-hover-bg=\"\" data-hover-bg-opacity=\"1\" data-animation=\"\" data-delay=\"0\">\n<div class=\"vc_column-inner\">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<h3>Hi. I’m Josue, nice to meet you. Please take a look around!</h3>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding instance-5\" data-shadow=\"none\" data-border-animation=\"\" data-border-animation-delay=\"\" data-border-width=\"none\" data-border-style=\"\" data-border-color=\"\" data-bg-cover=\"\" data-padding-pos=\"all\" data-has-bg-color=\"false\" data-bg-color=\"\" data-bg-opacity=\"1\" data-hover-bg=\"\" data-hover-bg-opacity=\"1\" data-animation=\"\" data-delay=\"0\">\n<div class=\"vc_column-inner\">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>I am passionate about building excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations. What would you do if you had a software expert available at your fingertips?</p>\n<h2>PORTFOLIO</h2>\n<p>Below you can see some projects I've been working on lately. I divide each project into four follow-up areas: comprehensive research, wireframing, design &amp; development. This process allows me to create great product with client goals in mind.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://himawan.github.io/media/posts/5/gallery/install-grafana-pada-debian.png\" data-size=\"1200x630\"><img loading=\"lazy\" src=\"https://himawan.github.io/media/posts/5/gallery/install-grafana-pada-debian-thumbnail.png\" alt=\"\" width=\"720\" height=\"378\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://himawan.github.io/media/posts/5/gallery/install-monitorix-pada-debian.png\" data-size=\"1200x630\"><img loading=\"lazy\" src=\"https://himawan.github.io/media/posts/5/gallery/install-monitorix-pada-debian-thumbnail.png\" alt=\"\" width=\"720\" height=\"378\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://himawan.github.io/media/posts/5/gallery/install-mosquitto-pada-debian.png\" data-size=\"1200x630\"><img loading=\"lazy\" src=\"https://himawan.github.io/media/posts/5/gallery/install-mosquitto-pada-debian-thumbnail.png\" alt=\"\" width=\"720\" height=\"378\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://himawan.github.io/media/posts/5/gallery/install-postgresql-pada-debian.png\" data-size=\"1200x630\"><img loading=\"lazy\" src=\"https://himawan.github.io/media/posts/5/gallery/install-postgresql-pada-debian-thumbnail.png\" alt=\"\" width=\"720\" height=\"378\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://himawan.github.io/media/posts/5/gallery/install-webmin-pada-debian.png\" data-size=\"1200x630\"><img loading=\"lazy\" src=\"https://himawan.github.io/media/posts/5/gallery/install-webmin-pada-debian-thumbnail.png\" alt=\"\" width=\"720\" height=\"378\"></a></figure>\n</div></div>\n<h2>OK, LET’S CREATE<br>SOMETHING GREAT</h2>\n<p>If you like my work and have some cool project to work on, just send me direct message or contact me through social sites listed below.</p>\n</div>\n</div>\n</div>\n</div>\n</div>",
+            "id": "https://himawan.github.io/rdl-designer/",
+            "url": "https://himawan.github.io/rdl-designer/",
+            "title": "RDL Designer",
+            "summary": "Report Definition Language atau yang biasa disingkat dengan RDL adalah",
+            "content_html": "<p>Report Definition Language atau yang biasa disingkat dengan RDL adalah </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://himawan.github.io/media/posts/8/Screeshoot.png\" sizes=\"100vw\" srcset=\"https://himawan.github.io/media/posts/8/responsive/Screeshoot-xs.png 300w ,https://himawan.github.io/media/posts/8/responsive/Screeshoot-sm.png 480w ,https://himawan.github.io/media/posts/8/responsive/Screeshoot-md.png 768w ,https://himawan.github.io/media/posts/8/responsive/Screeshoot-lg.png 1024w ,https://himawan.github.io/media/posts/8/responsive/Screeshoot-xl.png 1360w ,https://himawan.github.io/media/posts/8/responsive/Screeshoot-2xl.png 1600w\"  alt=\"\" width=\"949\" height=\"630\"></figure>",
             "author": {
                 "name": "Himawan Susanto"
             },
             "tags": [
+                   "Project"
             ],
-            "date_published": "2021-01-28T19:26:20+07:00",
-            "date_modified": "2021-01-28T22:23:48+07:00"
+            "date_published": "2022-03-27T06:12:22+07:00",
+            "date_modified": "2022-03-28T20:23:43+07:00"
+        },
+        {
+            "id": "https://himawan.github.io/excel-qr-code-label-generator-versi-offline/",
+            "url": "https://himawan.github.io/excel-qr-code-label-generator-versi-offline/",
+            "title": "Excel QR Code Label Generator (Versi Offline)",
+            "summary": "Tujuan aplikasi ini adalah untuk membuat label dengan fitur QR Code menggunakan Microsoft Excel dan VBA tanpa membutuhkan koneksi internet.",
+            "content_html": "<p>Tujuan aplikasi ini adalah untuk membuat label dengan fitur QR Code menggunakan Microsoft Excel dan VBA tanpa membutuhkan koneksi internet.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://himawan.github.io/media/posts/7/Excel-QRCode-Generator.gif\" alt=\"\" width=\"940\" height=\"624\"></figure>",
+            "author": {
+                "name": "Himawan Susanto"
+            },
+            "tags": [
+                   "Project"
+            ],
+            "date_published": "2022-03-27T06:10:32+07:00",
+            "date_modified": "2022-03-28T20:24:57+07:00"
+        },
+        {
+            "id": "https://himawan.github.io/excel-qr-code-label-generator-online-version/",
+            "url": "https://himawan.github.io/excel-qr-code-label-generator-online-version/",
+            "title": "Excel QR Code Label Generator (Versi Online)",
+            "summary": "Tujuan project ini adalah untuk membuat Label yang memiliki fitur QR Code menggunakan Microsoft Excel dan Google Api.",
+            "content_html": "<p>Tujuan project ini adalah untuk membuat Label yang memiliki fitur QR Code menggunakan Microsoft Excel dan Google Api.</p>",
+            "author": {
+                "name": "Himawan Susanto"
+            },
+            "tags": [
+                   "Project"
+            ],
+            "date_published": "2022-03-27T06:04:30+07:00",
+            "date_modified": "2022-03-27T06:14:20+07:00"
         }
     ]
 }

@@ -40,8 +40,8 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "favicon": false,
-    "mbrsiteDomain": "qe8f4rhn2j",
+    "favicon": "@PROJECT_PATH@/assets/images/logo_1.png",
+    "mbrsiteDomain": "pkzai9jssq",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -51,7 +51,8 @@
     "gdpr": false,
     "uniqCompNum": 33,
     "versionPublish": "5.6.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {

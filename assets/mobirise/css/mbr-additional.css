@@ -1045,7 +1045,7 @@ a {
 .cid-t1td5XppNW {
   padding-top: 0;
   padding-bottom: 0;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .cid-t1td5XppNW .carousel {
   width: 100%;
@@ -1148,6 +1148,12 @@ a {
   .cid-t1td5XppNW .carousel-indicators {
     display: none !important;
   }
+}
+.cid-t1td5XppNW H5 {
+  color: #fafafa;
+}
+.cid-t1td5XppNW P {
+  color: #fafafa;
 }
 .cid-t1tfemY10W {
   padding-top: 5rem;
